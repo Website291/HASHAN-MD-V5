@@ -9,7 +9,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session id. Must Start with Gifted~",
+      "description": "U4ZGEazB#2LCozvQU4nOBUM4x0AxaH4vOd5GkzJJEvoVjJG6lNKc",
       "required": true
     },
     "MODE": {
